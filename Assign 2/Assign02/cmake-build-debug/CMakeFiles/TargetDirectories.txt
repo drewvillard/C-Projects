@@ -1,0 +1,3 @@
+C:/Users/heral/School/PROG2007/Assign/Assign 2/Assign02/cmake-build-debug/CMakeFiles/ASSIGN2.dir
+C:/Users/heral/School/PROG2007/Assign/Assign 2/Assign02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/heral/School/PROG2007/Assign/Assign 2/Assign02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
